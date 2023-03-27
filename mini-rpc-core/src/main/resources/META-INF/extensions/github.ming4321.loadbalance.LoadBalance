@@ -1,0 +1,1 @@
+loadBalance=github.ming4321.loadbalance.loadbalancer.ConsistentHashLoadBalance

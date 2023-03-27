@@ -1,0 +1,1 @@
+netty=github.ming4321.remoting.transport.netty.client.NettyRpcClient
